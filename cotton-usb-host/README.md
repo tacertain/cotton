@@ -156,6 +156,9 @@ The RP2040 support is in this repo to provide a convenient worked example;
 specific host-controller support for other microcontrollers probably
 belongs in those microcontrollers' HAL crates.
 
+Support for i.MX RT processors (such as used in the Teensy 4.1) has been
+implemented in [imxrt-usbh](https://github.com/imxrt-rs/imxrt-usbh).
+
 ## TODO
 
 TODO before merge
